@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-const PI float32 = 3.1416
+const PI = 3.1416
 
 type circle struct {
 	redius float32
